@@ -14,3 +14,4 @@
    ### Contact me:
   </p>
 <a href="https://www.linkedin.com/in/kanhaiya-sharma-36a0b7204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devcula/devcula/master/socials/linkedin.svg" alt="Linkedin" height="40" width="40" /></a>&nbsp; &nbsp; &nbsp; &nbsp;
+<a href="kk7160464@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/devcula/devcula/master/socials/email.svg" alt="Email" height="40" width="40" /></a>&nbsp; &nbsp; &nbsp; &nbsp;
