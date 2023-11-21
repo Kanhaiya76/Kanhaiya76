@@ -5,7 +5,7 @@
   </p>
 </div>
 
-#### I'm a Pursuing Btech in CSE, Greater Noida.
+#### I'm a Pursuing MCA.
 
 - 🏢 I'm currently working on Frontend Developer.
 - [<img src="https://raw.githubusercontent.com/devcula/devcula/master/socials/linux.svg" height="30em" align="center" alt="Linux Logo" title="Linux Logo"/>](https://www.linux.org/) For me, Linux is ❤️
@@ -13,4 +13,4 @@
   <p>
    ### Contact me:
   </p>
-
+<a href="https://www.linkedin.com/in/kanhaiya-sharma-36a0b7204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devcula/devcula/master/socials/linkedin.svg" alt="Linkedin" height="40" width="40" /></a>&nbsp; &nbsp; &nbsp; &nbsp;
